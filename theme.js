@@ -5,5 +5,5 @@
 module.exports = {
   "font-family": "'Playfair Display', serif", // this font is imported in index.html
   "font-size-base": "18px",
-  "primary-color": "red"
+  "primary-color": "#e67e22"
 };
